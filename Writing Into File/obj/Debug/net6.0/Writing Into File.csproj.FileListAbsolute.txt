@@ -1,0 +1,15 @@
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Writing Into File\bin\Debug\net6.0\Writing Into File.exe
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Writing Into File\bin\Debug\net6.0\Writing Into File.deps.json
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Writing Into File\bin\Debug\net6.0\Writing Into File.runtimeconfig.json
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Writing Into File\bin\Debug\net6.0\Writing Into File.dll
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Writing Into File\bin\Debug\net6.0\Writing Into File.pdb
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Writing Into File\obj\Debug\net6.0\Writing Into File.csproj.AssemblyReference.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Writing Into File\obj\Debug\net6.0\Writing Into File.GeneratedMSBuildEditorConfig.editorconfig
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Writing Into File\obj\Debug\net6.0\Writing Into File.AssemblyInfoInputs.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Writing Into File\obj\Debug\net6.0\Writing Into File.AssemblyInfo.cs
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Writing Into File\obj\Debug\net6.0\Writing Into File.csproj.CoreCompileInputs.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Writing Into File\obj\Debug\net6.0\Writing Into File.dll
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Writing Into File\obj\Debug\net6.0\refint\Writing Into File.dll
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Writing Into File\obj\Debug\net6.0\Writing Into File.pdb
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Writing Into File\obj\Debug\net6.0\Writing Into File.genruntimeconfig.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Writing Into File\obj\Debug\net6.0\ref\Writing Into File.dll
