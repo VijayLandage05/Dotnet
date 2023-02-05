@@ -1,0 +1,15 @@
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Thread Start\bin\Debug\net6.0\Thread Start.exe
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Thread Start\bin\Debug\net6.0\Thread Start.deps.json
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Thread Start\bin\Debug\net6.0\Thread Start.runtimeconfig.json
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Thread Start\bin\Debug\net6.0\Thread Start.dll
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Thread Start\bin\Debug\net6.0\Thread Start.pdb
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Thread Start\obj\Debug\net6.0\Thread Start.csproj.AssemblyReference.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Thread Start\obj\Debug\net6.0\Thread Start.GeneratedMSBuildEditorConfig.editorconfig
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Thread Start\obj\Debug\net6.0\Thread Start.AssemblyInfoInputs.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Thread Start\obj\Debug\net6.0\Thread Start.AssemblyInfo.cs
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Thread Start\obj\Debug\net6.0\Thread Start.csproj.CoreCompileInputs.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Thread Start\obj\Debug\net6.0\Thread Start.dll
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Thread Start\obj\Debug\net6.0\refint\Thread Start.dll
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Thread Start\obj\Debug\net6.0\Thread Start.pdb
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Thread Start\obj\Debug\net6.0\Thread Start.genruntimeconfig.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Thread Start\obj\Debug\net6.0\ref\Thread Start.dll
