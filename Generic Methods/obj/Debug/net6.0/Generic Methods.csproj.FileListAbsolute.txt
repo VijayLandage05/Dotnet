@@ -1,0 +1,15 @@
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Generic Methods\bin\Debug\net6.0\Generic Methods.exe
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Generic Methods\bin\Debug\net6.0\Generic Methods.deps.json
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Generic Methods\bin\Debug\net6.0\Generic Methods.runtimeconfig.json
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Generic Methods\bin\Debug\net6.0\Generic Methods.dll
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Generic Methods\bin\Debug\net6.0\Generic Methods.pdb
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Generic Methods\obj\Debug\net6.0\Generic Methods.csproj.AssemblyReference.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Generic Methods\obj\Debug\net6.0\Generic Methods.GeneratedMSBuildEditorConfig.editorconfig
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Generic Methods\obj\Debug\net6.0\Generic Methods.AssemblyInfoInputs.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Generic Methods\obj\Debug\net6.0\Generic Methods.AssemblyInfo.cs
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Generic Methods\obj\Debug\net6.0\Generic Methods.csproj.CoreCompileInputs.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Generic Methods\obj\Debug\net6.0\Generic Methods.dll
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Generic Methods\obj\Debug\net6.0\refint\Generic Methods.dll
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Generic Methods\obj\Debug\net6.0\Generic Methods.pdb
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Generic Methods\obj\Debug\net6.0\Generic Methods.genruntimeconfig.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Generic Methods\obj\Debug\net6.0\ref\Generic Methods.dll

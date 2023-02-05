@@ -1,0 +1,15 @@
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Get Logical Drive\bin\Debug\net6.0\Get Logical Drive.exe
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Get Logical Drive\bin\Debug\net6.0\Get Logical Drive.deps.json
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Get Logical Drive\bin\Debug\net6.0\Get Logical Drive.runtimeconfig.json
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Get Logical Drive\bin\Debug\net6.0\Get Logical Drive.dll
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Get Logical Drive\bin\Debug\net6.0\Get Logical Drive.pdb
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Get Logical Drive\obj\Debug\net6.0\Get Logical Drive.csproj.AssemblyReference.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Get Logical Drive\obj\Debug\net6.0\Get Logical Drive.GeneratedMSBuildEditorConfig.editorconfig
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Get Logical Drive\obj\Debug\net6.0\Get Logical Drive.AssemblyInfoInputs.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Get Logical Drive\obj\Debug\net6.0\Get Logical Drive.AssemblyInfo.cs
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Get Logical Drive\obj\Debug\net6.0\Get Logical Drive.csproj.CoreCompileInputs.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Get Logical Drive\obj\Debug\net6.0\Get Logical Drive.dll
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Get Logical Drive\obj\Debug\net6.0\refint\Get Logical Drive.dll
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Get Logical Drive\obj\Debug\net6.0\Get Logical Drive.pdb
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Get Logical Drive\obj\Debug\net6.0\Get Logical Drive.genruntimeconfig.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Get Logical Drive\obj\Debug\net6.0\ref\Get Logical Drive.dll
