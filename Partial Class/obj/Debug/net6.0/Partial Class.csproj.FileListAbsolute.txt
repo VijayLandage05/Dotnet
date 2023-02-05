@@ -1,0 +1,15 @@
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Partial Class\bin\Debug\net6.0\Partial Class.exe
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Partial Class\bin\Debug\net6.0\Partial Class.deps.json
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Partial Class\bin\Debug\net6.0\Partial Class.runtimeconfig.json
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Partial Class\bin\Debug\net6.0\Partial Class.dll
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Partial Class\bin\Debug\net6.0\Partial Class.pdb
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Partial Class\obj\Debug\net6.0\Partial Class.csproj.AssemblyReference.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Partial Class\obj\Debug\net6.0\Partial Class.GeneratedMSBuildEditorConfig.editorconfig
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Partial Class\obj\Debug\net6.0\Partial Class.AssemblyInfoInputs.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Partial Class\obj\Debug\net6.0\Partial Class.AssemblyInfo.cs
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Partial Class\obj\Debug\net6.0\Partial Class.csproj.CoreCompileInputs.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Partial Class\obj\Debug\net6.0\Partial Class.dll
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Partial Class\obj\Debug\net6.0\refint\Partial Class.dll
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Partial Class\obj\Debug\net6.0\Partial Class.pdb
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Partial Class\obj\Debug\net6.0\Partial Class.genruntimeconfig.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Partial Class\obj\Debug\net6.0\ref\Partial Class.dll

@@ -1,0 +1,15 @@
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Linq Method Syntax\bin\Debug\net6.0\Linq Method Syntax.exe
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Linq Method Syntax\bin\Debug\net6.0\Linq Method Syntax.deps.json
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Linq Method Syntax\bin\Debug\net6.0\Linq Method Syntax.runtimeconfig.json
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Linq Method Syntax\bin\Debug\net6.0\Linq Method Syntax.dll
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Linq Method Syntax\bin\Debug\net6.0\Linq Method Syntax.pdb
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Linq Method Syntax\obj\Debug\net6.0\Linq Method Syntax.csproj.AssemblyReference.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Linq Method Syntax\obj\Debug\net6.0\Linq Method Syntax.GeneratedMSBuildEditorConfig.editorconfig
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Linq Method Syntax\obj\Debug\net6.0\Linq Method Syntax.AssemblyInfoInputs.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Linq Method Syntax\obj\Debug\net6.0\Linq Method Syntax.AssemblyInfo.cs
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Linq Method Syntax\obj\Debug\net6.0\Linq Method Syntax.csproj.CoreCompileInputs.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Linq Method Syntax\obj\Debug\net6.0\Linq Method Syntax.dll
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Linq Method Syntax\obj\Debug\net6.0\refint\Linq Method Syntax.dll
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Linq Method Syntax\obj\Debug\net6.0\Linq Method Syntax.pdb
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Linq Method Syntax\obj\Debug\net6.0\Linq Method Syntax.genruntimeconfig.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Linq Method Syntax\obj\Debug\net6.0\ref\Linq Method Syntax.dll

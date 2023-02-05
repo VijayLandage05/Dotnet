@@ -1,0 +1,15 @@
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\LinqQuery\bin\Debug\net6.0\LinqQuery.exe
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\LinqQuery\bin\Debug\net6.0\LinqQuery.deps.json
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\LinqQuery\bin\Debug\net6.0\LinqQuery.runtimeconfig.json
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\LinqQuery\bin\Debug\net6.0\LinqQuery.dll
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\LinqQuery\bin\Debug\net6.0\LinqQuery.pdb
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\LinqQuery\obj\Debug\net6.0\LinqQuery.csproj.AssemblyReference.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\LinqQuery\obj\Debug\net6.0\LinqQuery.GeneratedMSBuildEditorConfig.editorconfig
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\LinqQuery\obj\Debug\net6.0\LinqQuery.AssemblyInfoInputs.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\LinqQuery\obj\Debug\net6.0\LinqQuery.AssemblyInfo.cs
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\LinqQuery\obj\Debug\net6.0\LinqQuery.csproj.CoreCompileInputs.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\LinqQuery\obj\Debug\net6.0\LinqQuery.dll
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\LinqQuery\obj\Debug\net6.0\refint\LinqQuery.dll
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\LinqQuery\obj\Debug\net6.0\LinqQuery.pdb
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\LinqQuery\obj\Debug\net6.0\LinqQuery.genruntimeconfig.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\LinqQuery\obj\Debug\net6.0\ref\LinqQuery.dll
