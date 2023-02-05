@@ -1,0 +1,15 @@
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Generic Collection List\obj\Debug\net6.0\Generic Collection List.csproj.AssemblyReference.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Generic Collection List\obj\Debug\net6.0\Generic Collection List.GeneratedMSBuildEditorConfig.editorconfig
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Generic Collection List\obj\Debug\net6.0\Generic Collection List.AssemblyInfoInputs.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Generic Collection List\obj\Debug\net6.0\Generic Collection List.AssemblyInfo.cs
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Generic Collection List\obj\Debug\net6.0\Generic Collection List.csproj.CoreCompileInputs.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Generic Collection List\bin\Debug\net6.0\Generic Collection List.exe
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Generic Collection List\bin\Debug\net6.0\Generic Collection List.deps.json
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Generic Collection List\bin\Debug\net6.0\Generic Collection List.runtimeconfig.json
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Generic Collection List\bin\Debug\net6.0\Generic Collection List.dll
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Generic Collection List\bin\Debug\net6.0\Generic Collection List.pdb
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Generic Collection List\obj\Debug\net6.0\Generic Collection List.dll
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Generic Collection List\obj\Debug\net6.0\refint\Generic Collection List.dll
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Generic Collection List\obj\Debug\net6.0\Generic Collection List.pdb
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Generic Collection List\obj\Debug\net6.0\Generic Collection List.genruntimeconfig.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Generic Collection List\obj\Debug\net6.0\ref\Generic Collection List.dll

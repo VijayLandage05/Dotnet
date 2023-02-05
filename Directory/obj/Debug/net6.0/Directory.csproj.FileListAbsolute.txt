@@ -1,0 +1,15 @@
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Directory\bin\Debug\net6.0\Directory.exe
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Directory\bin\Debug\net6.0\Directory.deps.json
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Directory\bin\Debug\net6.0\Directory.runtimeconfig.json
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Directory\bin\Debug\net6.0\Directory.dll
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Directory\bin\Debug\net6.0\Directory.pdb
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Directory\obj\Debug\net6.0\Directory.csproj.AssemblyReference.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Directory\obj\Debug\net6.0\Directory.GeneratedMSBuildEditorConfig.editorconfig
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Directory\obj\Debug\net6.0\Directory.AssemblyInfoInputs.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Directory\obj\Debug\net6.0\Directory.AssemblyInfo.cs
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Directory\obj\Debug\net6.0\Directory.csproj.CoreCompileInputs.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Directory\obj\Debug\net6.0\Directory.dll
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Directory\obj\Debug\net6.0\refint\Directory.dll
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Directory\obj\Debug\net6.0\Directory.pdb
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Directory\obj\Debug\net6.0\Directory.genruntimeconfig.cache
+E:\2-CDAC\Module 8-DotNET\DotNET Lab\Practice\Directory\obj\Debug\net6.0\ref\Directory.dll
